@@ -56,7 +56,7 @@ Hasil tersebut mengonfirmasi kesesuaian antara hasil yang dihasilkan oleh progra
 
 #### Hasil Praktikum
 
-![alt text]()
+![alt text](https://github.com/Takbirahmadf/Tugas-AI/blob/main/IMG-20231103-WA0002.jpg)
 
 Hasil tersebut memverifikasi bahwa tree yang dihasilkan oleh program sesuai dengan Gambar 4.6. Proses pencarian simpul 9 melibatkan:
 - Algoritma BFS memulai pencarian dengan memasukkan simpul 1 ke dalam antrian.
